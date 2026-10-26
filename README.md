@@ -1,1 +1,1 @@
-# PixelFlow
+**PixelFlow** is a responsive photography management web application built with React.js, JavaScript, HTML, and CSS. It allows photographers to organize photos and videos into categories like Festivals, Events, Portraits, and Wildlife. Features include drag-and-drop uploads, file validation, image previews, light/dark mode, loading states, and toast notifications, with a clean, modern, mobile-friendly interface.
